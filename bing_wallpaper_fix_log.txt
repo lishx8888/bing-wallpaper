@@ -1,0 +1,65 @@
+[2025-11-11 09:00:40] Starting to download today's Bing wallpaper
+[2025-11-11 09:00:43] Successfully downloaded wallpaper: Bing_20251111.jpg - 条顿堡森林的伊克斯坦岩石层，德国 (? Michael Sroka/Getty Images)
+[2025-11-11 09:00:43] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 09:00:44] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 09:00:44] Script completed successfully
+[2025-11-11 09:53:17] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 09:53:17] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 09:53:18] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 09:53:18] Script completed successfully
+[2025-11-11 09:56:30] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 09:56:30] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 09:56:31] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 09:56:31] Script completed successfully
+[2025-11-11 11:14:38] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:14:38] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:14:39] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:14:39] Script completed successfully
+[2025-11-11 11:16:27] Starting to download today's Bing wallpaper
+[2025-11-11 11:16:31] Successfully downloaded wallpaper: Bing_20251111.jpg - 条顿堡森林的伊克斯坦岩石层，德国 (? Michael Sroka/Getty Images)
+[2025-11-11 11:16:31] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:16:32] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:16:32] Script completed successfully
+[2025-11-11 11:19:50] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:19:50] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:20:00] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:20:00] Script completed successfully
+[2025-11-11 11:22:37] Starting to download today's Bing wallpaper
+[2025-11-11 11:22:40] Successfully downloaded wallpaper: Bing_20251111.jpg - 条顿堡森林的伊克斯坦岩石层，德国 (? Michael Sroka/Getty Images)
+[2025-11-11 11:22:40] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:22:44] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:22:44] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:24:56] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:24:56] Script completed successfully
+[2025-11-11 11:26:22] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:26:22] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:26:38] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:26:38] Script completed successfully
+[2025-11-11 11:27:23] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:27:23] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:27:29] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:27:29] Script completed successfully
+[2025-11-11 11:28:53] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:28:53] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:28:54] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:28:54] Script completed successfully
+[2025-11-11 11:34:23] Today's wallpaper already exists, setting directly: Bing_20251111.jpg
+[2025-11-11 11:34:23] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:34:24] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:34:24] Script completed successfully
+[2025-11-11 11:57:07] Created wallpaper save directory: C:\Users\Administrator\Pictures\BingWallpapers
+[2025-11-11 11:57:07] Starting to download today's Bing wallpaper
+[2025-11-11 11:57:10] Successfully downloaded wallpaper: Bing_20251111.jpg - 条顿堡森林的伊克斯坦岩石层，德国 (? Michael Sroka/Getty Images)
+[2025-11-11 11:57:10] Setting wallpaper: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:57:12] Wallpaper successfully set: C:\Users\Administrator\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 11:57:12] Script completed successfully
+[2025-11-11 14:07:27] Starting to download today's Bing wallpaper
+[2025-11-11 14:07:30] Successfully downloaded wallpaper: Bing_20251111.jpg - 条顿堡森林的伊克斯坦岩石层，德国 (? Michael Sroka/Getty Images)
+[2025-11-11 14:07:30] Setting wallpaper: D:\TD\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 14:07:31] Wallpaper successfully set: D:\TD\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 14:07:31] Script completed successfully
+[2025-11-11 14:10:55] Starting to download today's Bing wallpaper
+[2025-11-11 14:10:58] Successfully downloaded wallpaper: Bing_20251111.jpg - 条顿堡森林的伊克斯坦岩石层，德国 (? Michael Sroka/Getty Images)
+[2025-11-11 14:10:58] Setting wallpaper: D:\TD\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 14:11:00] Wallpaper successfully set: D:\TD\Pictures\BingWallpapers\Bing_20251111.jpg
+[2025-11-11 14:11:00] Script completed successfully
